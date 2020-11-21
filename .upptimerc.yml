@@ -5,7 +5,7 @@ repo: status # Your Github repository name
 # Add your sites here
 sites:
   - name: Antonius
-    url: https://www.antoniuss.me
+    url: https://www.antonius.me
   - name: Phonetic
     url: https://phonetic.xyz
   - name: Secret Site
