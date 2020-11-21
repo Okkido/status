@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Okkido.github.io/status): <!--live status--> **🟩 All systems operational**
+# <!--live status--> **🟩 All systems operational**
 
 [**Status website →**](https://Okkido.github.io/status)
 
