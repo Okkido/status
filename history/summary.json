@@ -5,7 +5,7 @@
     "slug": "antonius",
     "status": "up",
     "uptime": "100.00",
-    "time": 637
+    "time": 598
   },
   {
     "name": "Phonetic",
@@ -13,14 +13,22 @@
     "slug": "phonetic",
     "status": "up",
     "uptime": "100.00",
-    "time": 345
+    "time": 281
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
+    "name": "Church of Procrastination",
+    "url": "https://churchofprocrastination.com",
+    "slug": "church-of-procrastination",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 991
+  },
+  {
+    "name": "Världens bästa chili",
+    "url": "https://varldensbastachili.se",
+    "slug": "vaerldens-baesta-chili",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 368
   }
 ]
