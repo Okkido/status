@@ -1,6 +1,6 @@
 # Change these first
-owner: Okkido # Your GitHub username
-repo: status # Your Github repository name
+owner: Okkido
+repo: status
 
 # Add your sites here
 sites:
@@ -8,8 +8,10 @@ sites:
     url: https://www.antonius.me
   - name: Phonetic
     url: https://phonetic.xyz
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Church of Procrastination
+    url: https://churchofprocrastination.com
+  - name: Världens bästa chili
+    url: https://varldensbastachili.se
 
 status-website:
   baseUrl: /status # where "repo" is your repository name
