@@ -4,15 +4,15 @@
     "url": "https://www.antonius.me",
     "slug": "antonius",
     "status": "up",
-    "uptime": "100.00",
-    "time": 757
+    "uptime": "100.00%",
+    "time": 709
   },
   {
     "name": "Phonetic",
     "url": "https://phonetic.xyz",
     "slug": "phonetic",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 267
   },
   {
@@ -20,15 +20,15 @@
     "url": "https://churchofprocrastination.com",
     "slug": "church-of-procrastination",
     "status": "up",
-    "uptime": "100.00",
-    "time": 465
+    "uptime": "100.00%",
+    "time": 421
   },
   {
     "name": "Varldens basta chili",
     "url": "https://varldensbastachili.se",
     "slug": "varldens-basta-chili",
     "status": "up",
-    "uptime": "100.00",
-    "time": 545
+    "uptime": "100.00%",
+    "time": 477
   }
 ]
