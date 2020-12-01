@@ -5,7 +5,7 @@
     "slug": "antonius",
     "status": "up",
     "uptime": "100.00%",
-    "time": 501
+    "time": 502
   },
   {
     "name": "Phonetic",
@@ -13,7 +13,7 @@
     "slug": "phonetic",
     "status": "up",
     "uptime": "100.00%",
-    "time": 290
+    "time": 284
   },
   {
     "name": "Church of Procrastination",
@@ -21,7 +21,7 @@
     "slug": "church-of-procrastination",
     "status": "up",
     "uptime": "100.00%",
-    "time": 298
+    "time": 300
   },
   {
     "name": "Varldens basta chili",
@@ -29,6 +29,6 @@
     "slug": "varldens-basta-chili",
     "status": "up",
     "uptime": "100.00%",
-    "time": 399
+    "time": 383
   }
 ]
