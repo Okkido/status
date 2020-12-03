@@ -5,7 +5,15 @@
     "slug": "antonius",
     "status": "up",
     "uptime": "100.00%",
-    "time": 494
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 518,
+    "timeDay": 395,
+    "timeWeek": 431,
+    "timeMonth": 518,
+    "timeYear": 518
   },
   {
     "name": "Phonetic",
@@ -13,7 +21,15 @@
     "slug": "phonetic",
     "status": "up",
     "uptime": "100.00%",
-    "time": 279
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 278,
+    "timeDay": 262,
+    "timeWeek": 269,
+    "timeMonth": 278,
+    "timeYear": 278
   },
   {
     "name": "Church of Procrastination",
@@ -21,7 +37,15 @@
     "slug": "church-of-procrastination",
     "status": "up",
     "uptime": "100.00%",
-    "time": 285
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 282,
+    "timeDay": 228,
+    "timeWeek": 209,
+    "timeMonth": 282,
+    "timeYear": 282
   },
   {
     "name": "Varldens basta chili",
@@ -29,6 +53,14 @@
     "slug": "varldens-basta-chili",
     "status": "up",
     "uptime": "100.00%",
-    "time": 391
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 379,
+    "timeDay": 228,
+    "timeWeek": 295,
+    "timeMonth": 379,
+    "timeYear": 379
   }
 ]
