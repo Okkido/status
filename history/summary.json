@@ -2,6 +2,7 @@
   {
     "name": "Antonius",
     "url": "https://www.antonius.me",
+    "icon": "https://favicons.githubusercontent.com/www.antonius.me",
     "slug": "antonius",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
+    "time": 476,
     "timeDay": 195,
-    "timeWeek": 391,
-    "timeMonth": 490,
-    "timeYear": 490
+    "timeWeek": 354,
+    "timeMonth": 476,
+    "timeYear": 476,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Phonetic",
     "url": "https://phonetic.xyz",
+    "icon": "https://favicons.githubusercontent.com/phonetic.xyz",
     "slug": "phonetic",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 80,
-    "timeWeek": 236,
-    "timeMonth": 277,
-    "timeYear": 277
+    "time": 271,
+    "timeDay": 154,
+    "timeWeek": 234,
+    "timeMonth": 271,
+    "timeYear": 271,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Church of Procrastination",
     "url": "https://churchofprocrastination.com",
+    "icon": "https://favicons.githubusercontent.com/churchofprocrastination.com",
     "slug": "church-of-procrastination",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 90,
-    "timeWeek": 172,
-    "timeMonth": 263,
-    "timeYear": 263
+    "time": 257,
+    "timeDay": 144,
+    "timeWeek": 187,
+    "timeMonth": 257,
+    "timeYear": 257,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Varldens basta chili",
     "url": "https://varldensbastachili.se",
+    "icon": "https://favicons.githubusercontent.com/varldensbastachili.se",
     "slug": "varldens-basta-chili",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 225,
-    "timeWeek": 275,
-    "timeMonth": 353,
-    "timeYear": 353
+    "time": 342,
+    "timeDay": 169,
+    "timeWeek": 259,
+    "timeMonth": 342,
+    "timeYear": 342,
+    "dailyMinutesDown": {}
   }
 ]
